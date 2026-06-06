@@ -15,5 +15,3 @@ To understand user behavior, pain points, goals, and motivations before developi
 ### Target User
 Urban drivers who frequently struggle to find parking spaces.
 
-### Files Included
-- TASK01.pdf
